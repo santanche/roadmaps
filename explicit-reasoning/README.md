@@ -15,7 +15,7 @@ Important points to note in this article:
 * The mechanism to build and process the executable concept maps.
 * The learning analytics approach to evaluate the maps produced by students.
 
-> Wang, Y. F., Lee, Y. H., Lee, C. W., Hsieh, C. H., & Lee, Y. K. (2008). **Designing Learning by Teaching Agents: The Betty’s Brain System**. *International Journal of Artificial Intelligence in Education*, 18(3), 181–208. https://doi.org/10.1186/S12913-022-07533-1
+> Leelawong, K., & Biswas, G. (2008). **Designing Learning by Teaching Agents: The Betty’s Brain System**. *International Journal of Artificial Intelligence in Education*, 18(3), 181–208.
 
 An open version is available [here](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0b1eb872ae143ffb9f36b90b1243dfd28bbbd731).
 
