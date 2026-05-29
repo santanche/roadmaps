@@ -13,6 +13,7 @@
 * [Rawpixel](https://www.rawpixel.com)
 * [Public Domain Pictures](https://www.publicdomainpictures.net/)
 * [Deposiphotos](https://depositphotos.com/home.html)
+* [Iconify](https://icon-sets.iconify.design/)
 
 ## 3D
 * [Thangs](https://thangs.com/)
